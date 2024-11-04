@@ -1,0 +1,1 @@
+First loads the data set and reports the number of rows and columns, Next the rows of duplicated are identified and removed fom the DataFrame,Then the shape of the DataFrame is reported to confirm the change.
